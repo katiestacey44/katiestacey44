@@ -1,5 +1,18 @@
 ## Hi there 👋
+I'm Catherine, a passionate Computer Science major currently interning at a small software development company. I'm excited to contribute to real-world projects and expand my skills in software development.
 
+💻 Skills:
+
+Java: Building efficient, scalable applications
+
+JavaScript: Crafting dynamic, interactive front-end experiences
+
+HTML: Creating well-structured, responsive websites
+
+C: Writing performant low-level code
+
+
+🎓 I'm constantly learning and exploring new technologies to enhance my development skills. Check out some of my projects below!
 <!--
 **katiestacey44/katiestacey44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
