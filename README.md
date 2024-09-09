@@ -12,7 +12,7 @@ HTML: Creating well-structured, responsive websites
 C: Writing performant low-level code
 
 
-🎓 I'm constantly learning and exploring new technologies to enhance my development skills. Check out some of my projects below!
+🎓 I'm constantly learning and exploring new technologies to enhance my development skills. 
 <!--
 **katiestacey44/katiestacey44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
