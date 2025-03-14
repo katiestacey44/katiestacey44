@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Catherine Stacey, a passionate Computer Science major currently interning at a small software development company. I'm excited to contribute to real-world projects and expand my skills in software development.
+I'm Catherine Stacey, a passionate Computer Science major who is soon to graduate from Grand Valley State University. I'm excited to contribute to real-world projects and expand my skills in software development.
 
 💻 Skills:
 
